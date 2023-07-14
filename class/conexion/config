@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "server" : "containers-us-west-18.railway.app",
+        "user" : "root",
+        "password" : "nIrXq66ONOB4omRhLKV5",
+        "database" : "railway",
+        "port" : "7641"
+    }
+}
